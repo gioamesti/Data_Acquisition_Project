@@ -1,4 +1,4 @@
-# Data_Acquisition_Project
+# Data Acquisition Project
 Exploratory analysis of 30 recently active Stack Overflow questions, pulled live from the Stack Exchange API.
 ## What I did
 - Retrieved JSON data with Python's `requests` library
